@@ -1,6 +1,6 @@
 # Download file 
 
-Click on "<code>"
+Click on code
 
 Download the ZIP file
 
