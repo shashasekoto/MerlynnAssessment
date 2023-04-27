@@ -1,5 +1,9 @@
 # Download file 
 
+Click on <code>
+
+Download the ZIP file
+
 # Download installer
 
 ### `Node js`
@@ -15,11 +19,19 @@ To confirm Node installation, type node -v command.
 
 To confirm NPM installation, type npm -v command.
 
-# Getting Started with Create React App
+# Getting Started with React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Extract the app on the Windows explorer.
 
-## Available Scripts
+To run the app, open Command propmt and cd to the directory of the app
+
+npm install
+
+Install node_modules in the directory
+
+`npm i jquery --save`
+
+This will install jQuery in the node_modules directory
 
 In the project directory, you can run:
 
@@ -31,8 +43,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-### `npm i jquery --save`
 
-This will install jQuery in the node_modules directory
 
 
